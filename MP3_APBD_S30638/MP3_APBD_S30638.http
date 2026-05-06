@@ -1,0 +1,6 @@
+@MP3_APBD_S30638_HostAddress = http://localhost:5236
+
+GET {{MP3_APBD_S30638_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
